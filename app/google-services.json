@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958334177462",
+    "project_id": "scrollableimagefirebasestorage",
+    "storage_bucket": "scrollableimagefirebasestorage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958334177462:android:780c2a827d4cfe5f7cd617",
+        "android_client_info": {
+          "package_name": "com.example.scrollableimagefirebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg41O2ZlbYKnj2RfdRa4p4R9XrSvVPIks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
